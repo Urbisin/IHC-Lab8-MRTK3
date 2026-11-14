@@ -1,0 +1,15 @@
+# Clon de MRTK3 (se descarga en el lab con setup-lab.ps1)
+MixedRealityToolkit-Unity/
+# Unity
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/.vs/
+*.csproj
+*.sln
+*.pidb
+*.suo
